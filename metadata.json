@@ -1,0 +1,5 @@
+{
+  "name": "Atomic Viz & Environment Explorer",
+  "description": "A 3D interactive visualization of atomic structures integrated with Gemini AI to explore elemental properties and their real-world environments.",
+  "requestFramePermissions": []
+}
